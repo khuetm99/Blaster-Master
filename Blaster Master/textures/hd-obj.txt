@@ -1,0 +1,15 @@
+type obj:
+1: gạch ko phá đc
+2 chông + lava
+3: door
+4: gạch phá đc
+
+https://www.youtube.com/watch?v=64kwnlSErh8(phút 8:30)-> gạch phá đc
+
+1->10: số trong txt = số trong png
+11->28: số trong png = số trong txt + 1
+29->32: số trong png = số trong txt + 2
+33->36: số trong png = số trong txt + 3
+37->403: số trong png = số trong txt + 4
+404->440: số trong png = số trong txt + 3
+441->445: số trong txt = số trong png
